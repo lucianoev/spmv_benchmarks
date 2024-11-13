@@ -1,0 +1,8 @@
+Time taken by dense matrix-vector product without MKL: 70 ms
+Time taken by dense matrix-vector product with MKL: 181 ms
+Time taken by CSR matrix-vector product without MKL: 25 ms
+Time taken by CSR matrix-vector product with MKL: 23 ms
+Time taken by COO matrix-vector product without MKL: 72 ms
+Time taken by COO matrix-vector product with MKL: 42 ms
+Time taken by CSC matrix-vector product without MKL: 29 ms
+Time taken by CSC matrix-vector product with MKL: 29 ms
