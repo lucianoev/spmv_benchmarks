@@ -1,0 +1,19 @@
+
+=== Start: [2024/12/26 01:36:10] === 
+Analysis started...
+Result file: /mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/advisor_project/e000/dp000/dp000.advixe 
+Found target process /mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv (PID = 1662776). Analysis started... 
+Loaded module: /mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv. 
+Loaded module: /mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2. 
+Loaded module: [vdso]. 
+Loaded module: /opt/cesga/2020/software/Compiler/gcccore/system/gsl/2.7-imkl-2021.3.0/lib/libgsl.so.25. 
+Loaded module: /opt/cesga/2020/software/Core/imkl/2021.3.0/lib/intel64/libmkl_rt.so.1. 
+Loaded module: /mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libm.so.6. 
+Loaded module: /opt/cesga/2020/software/Core/advisor/2021.4.0/advisor/2021.4.0/lib64/libgcc_s.so.1. 
+Loaded module: /mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libc.so.6. 
+Loaded module: /mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libdl.so.2. 
+Loaded module: /mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libpthread.so.0. 
+Application exit code: 137 
+Result file: /mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/advisor_project/e000/dp000/dp000.advixe 
+Analysis completed
+=== End: [2024/12/26 01:39:19] === 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- <!DOCTYPE IntelParallelAdvisorSummaryCollection SYSTEM  "IntelParallelAdvisorSummaryCollection.dtd"> -->
+
+<IntelParallelAdvisorSummary version="" 
+                             kind="DATAKIND_SURVEY_EX" >
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="__libc_start_main"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="5.749997E+01"
+           trip_counts=""
+           func_instance="9"
+           priority="0"/>
+  <hotspot filename="/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c"
+           line_no="87"
+           routine="gsl_spmatrix_vector_multiply"
+           is_vectorized="0"
+           self_time="5.714974E-01"
+           total_time="3.589991E+01"
+           trip_counts=""
+           func_instance="158"
+           priority="0"/>
+  <hotspot filename="/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c"
+           line_no="84"
+           routine="gsl_spmatrix_vector_multiply"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="3.589991E+01"
+           trip_counts=""
+           func_instance="162"
+           priority="0"/>
+  <hotspot filename=""
+           line_no="4294967295"
+           routine="tree_find"
+           is_vectorized="0"
+           self_time="3.422612E+01"
+           total_time="3.422612E+01"
+           trip_counts=""
+           func_instance="87"
+           priority="0"/>
+  <hotspot filename="/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c"
+           line_no="353"
+           routine="main"
+           is_vectorized="0"
+           self_time="0.000000E+00"
+           total_time="9.709981E+00"
+           trip_counts=""
+           func_instance="156"
+           priority="0"/>
+</IntelParallelAdvisorSummary >

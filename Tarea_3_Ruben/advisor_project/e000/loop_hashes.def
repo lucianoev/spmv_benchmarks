@@ -1,0 +1,59 @@
+# hash file version: 3
+1	6	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	79232	79358		0	503	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+2	9	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libc.so.6	146497	146720		0	363	f75d61830a4521d1498a6b0e2a734830	0	1	0	0	0
+4	46	/opt/cesga/2020/software/Compiler/gcccore/system/gsl/2.7-imkl-2021.3.0/lib/libgsl.so.25	516160	516256,516544		0	82	bdaeff66284662c2062908cf9d6e962f	0	1	0	0	0
+5	61	/opt/cesga/2020/software/Compiler/gcccore/system/gsl/2.7-imkl-2021.3.0/lib/libgsl.so.25	516352	516388		0	36	bdaeff66284662c2062908cf9d6e962f	0	1	0	0	0
+6	69	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	80816	80862		0	121	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+8	74	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	49867	50139,50753,52761,55030		0	3031	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+9	75	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	49546	50139,50753,52990,55030		0	4632	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+10	87	/opt/cesga/2020/software/Compiler/gcccore/system/gsl/2.7-imkl-2021.3.0/lib/libgsl.so.25	3829096	3829152,3829145		0	49	bdaeff66284662c2062908cf9d6e962f	0	1	0	0	0
+14	106	/opt/cesga/2020/software/Compiler/gcccore/system/gsl/2.7-imkl-2021.3.0/lib/libgsl.so.25	516005	516027		0	22	bdaeff66284662c2062908cf9d6e962f	0	1	0	0	0
+15	108	/opt/cesga/2020/software/Compiler/gcccore/system/gsl/2.7-imkl-2021.3.0/lib/libgsl.so.25	515997	516064		0	59	bdaeff66284662c2062908cf9d6e962f	0	1	0	0	0
+51	249	/opt/cesga/2020/software/Core/imkl/2021.3.0/lib/intel64/libmkl_avx512.so.1	5009608	5009804		0	196	57b176f891325de4fd9700ad13d7755b	1	1	0	0	0
+52	252	/opt/cesga/2020/software/Core/imkl/2021.3.0/lib/intel64/libmkl_avx512.so.1	5009401	5010967		0	1566	57b176f891325de4fd9700ad13d7755b	0	1	0	0	0
+53	287	/opt/cesga/2020/software/Core/imkl/2021.3.0/lib/intel64/libmkl_intel_thread.so.1	4084501	4085407		0	916	9eeb1c25a3faa1a25e8620aa6131ed9f	0	1	0	0	0
+60	31	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	13461	13677	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	20	216	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+61	72	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	51664	55864,51708		0	44	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+62	112	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	50400	50753,50817,50753		0	865	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+63	116	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	43680	43757,43753		0	73	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+64	118	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	9920	10016	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_dense.c	8	96	daf5517ec90e41db629d4cbb3fd8e60a	1	2	0	0	0
+65	121	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	9707	10102	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_dense.c	5	399	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+66	122	/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2	40544	41408,41139,41806,42621,42239		0	1564	5cbbd4d772e79b018b9772a32a6689af	0	1	0	0	0
+67	124	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	14544	14661	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	102	117	daf5517ec90e41db629d4cbb3fd8e60a	1	2	0	0	0
+68	127	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	14420	14819	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	100	431	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+69	129	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15057	15132	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	125	75	daf5517ec90e41db629d4cbb3fd8e60a	0	2	0	0	0
+70	130	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15037	15213	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	123	176	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+71	132	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	10785	10928	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_csr.c	11	143	daf5517ec90e41db629d4cbb3fd8e60a	1	4	0	0	0
+72	134	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	10626	11012	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_csr.c	8	390	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+73	136	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15584	15701	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	193	117	daf5517ec90e41db629d4cbb3fd8e60a	1	2	0	0	0
+74	138	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15470	15853	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	193	415	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+75	139	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16028	16064	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	218	36	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+76	140	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16019	16080	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	216	61	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+77	142	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	12626	12696	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_csc.c	15	70	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+78	144	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	12602	12712	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_csc.c	14	110	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+79	145	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16448	16565	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	149	117	daf5517ec90e41db629d4cbb3fd8e60a	1	2	0	0	0
+80	147	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16331	16716	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	147	417	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+81	148	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16967	17051	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	171	84	daf5517ec90e41db629d4cbb3fd8e60a	0	2	0	0	0
+82	149	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16957	17123	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	169	166	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+83	152	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	11611	11678	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_coo.c	14	67	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+84	155	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	17424	17464	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	355	40	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+85	156	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	17393	17508	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	353	115	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+86	158	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	17675	17744	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	87	69	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+87	162	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	17655	17766	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	84	111	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+88	167	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	9808	9904	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_dense.c	8	96	daf5517ec90e41db629d4cbb3fd8e60a	1	2	0	0	0
+89	168	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	10050		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_dense.c	8	28	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+90	169	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	10965		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_csr.c	11	28	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+91	176	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	14498		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	102	29	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+92	177	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	14712		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	102	32	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0
+93	178	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	14774		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	102	29	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+94	181	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15548		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	193	29	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+95	182	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15747		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	193	32	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0
+96	183	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15808		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	193	29	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+97	186	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16409		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	149	29	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+98	187	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16610		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	149	32	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0
+99	188	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16671		/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	149	29	daf5517ec90e41db629d4cbb3fd8e60a	0	1	0	0	0
+100	302	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	14498	14527,14661,14744,14803	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	102	207	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0
+101	303	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	16409	16438,16565,16642,16700	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	149	207	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0
+102	304	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	15548	15577,15701,15779,15837	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv_GCC.c	193	207	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0
+103	307	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	9808	9904,10016,10078	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_dense.c	8	220	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0
+104	308	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv	10785	10928,10993	/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/my_csr.c	11	171	daf5517ec90e41db629d4cbb3fd8e60a	1	1	0	0	0

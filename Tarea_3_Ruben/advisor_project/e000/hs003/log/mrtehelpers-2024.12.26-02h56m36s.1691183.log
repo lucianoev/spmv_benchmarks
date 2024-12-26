@@ -1,0 +1,7 @@
+123 [140002705401600] INFO mrtehelpers.mrteenv <> - Product libs directory: /mnt/netapp1/Optcesga_FT2_RHEL7/2020/software/Core/advisor/2021.4.0/advisor/2021.4.0/lib64
+123 [140002705401600] INFO mrtehelpers.mrteenv <> - File mask: advixe_tpssmrte_clrprof*
+149 [140002705401600] INFO mrtehelpers.mrteenv <> - File name: lib
+149 [140002705401600] INFO mrtehelpers.mrteenv <> - File mask: advixe_tpssmrte_clrprof*
+157 [140002705401600] INFO mrtehelpers.mrteenv <> - File name: lib
+158 [140002705401600] ERROR mrtehelpers.mrteenv <> - Failed to init shared librarylib located at /mnt/netapp1/Optcesga_FT2_RHEL7/2020/software/Core/advisor/2021.4.0/advisor/2021.4.0/lib64, at file: vcs/mrtehelpers3/src/mrteenv/mrte_profiling_initializer.cpp:485
+158 [140002705401600] ERROR mrtehelpers.mrteenv <> - CLR support is disabled because profiler GUID is empty, at file: vcs/mrtehelpers3/src/mrteenv/mrte_profiling_initializer.cpp:308

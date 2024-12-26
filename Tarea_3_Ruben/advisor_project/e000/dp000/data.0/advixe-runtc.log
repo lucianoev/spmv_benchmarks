@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2024/12/26 01:36:10</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/advisor_project/e000/dp000/dp000.advixe</arg>
+</msg>
+<msg id="4" tool="tc">
+  <type>START</type>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:10 2024</timestamp>
+</msg>
+<msg id="5" tool="tc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv</arg>
+  <arg>1662776</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:10 2024</timestamp>
+</msg>
+<msg id="6" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/spmv</arg>
+  <arg>0x400000</arg>
+  <arg>0x4104df</arg>
+  <arg>2</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:10 2024</timestamp>
+</msg>
+<msg id="7" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/ld-linux-x86-64.so.2</arg>
+  <arg>0x7fc04e506000</arg>
+  <arg>0x7fc04e531137</arg>
+  <arg>3</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:10 2024</timestamp>
+</msg>
+<msg id="8" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>[vdso]</arg>
+  <arg>0x7ffc1c7c5000</arg>
+  <arg>0x7ffc1c7c5f5c</arg>
+  <arg>4</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:10 2024</timestamp>
+</msg>
+<msg id="9" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/opt/cesga/2020/software/Compiler/gcccore/system/gsl/2.7-imkl-2021.3.0/lib/libgsl.so.25</arg>
+  <arg>0x7fc037616000</arg>
+  <arg>0x7fc037aa176f</arg>
+  <arg>5</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:10 2024</timestamp>
+</msg>
+<msg id="10" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/opt/cesga/2020/software/Core/imkl/2021.3.0/lib/intel64/libmkl_rt.so.1</arg>
+  <arg>0x7fc036e1c000</arg>
+  <arg>0x7fc037581ca7</arg>
+  <arg>6</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:10 2024</timestamp>
+</msg>
+<msg id="11" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libm.so.6</arg>
+  <arg>0x7fc036c11000</arg>
+  <arg>0x7fc036d5210f</arg>
+  <arg>7</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:11 2024</timestamp>
+</msg>
+<msg id="12" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/opt/cesga/2020/software/Core/advisor/2021.4.0/advisor/2021.4.0/lib64/libgcc_s.so.1</arg>
+  <arg>0x7fc036bf6000</arg>
+  <arg>0x7fc036c10447</arg>
+  <arg>8</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:11 2024</timestamp>
+</msg>
+<msg id="13" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libc.so.6</arg>
+  <arg>0x7fc036a36000</arg>
+  <arg>0x7fc036bf25cf</arg>
+  <arg>9</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:11 2024</timestamp>
+</msg>
+<msg id="14" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libdl.so.2</arg>
+  <arg>0x7fc036a30000</arg>
+  <arg>0x7fc036a3510f</arg>
+  <arg>10</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:11 2024</timestamp>
+</msg>
+<msg id="15" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>/mnt/netapp1/Optcesga_FT2_RHEL7/2020/gentoo/22072020/lib64/libpthread.so.0</arg>
+  <arg>0x7fc03693e000</arg>
+  <arg>0x7fc03695e46f</arg>
+  <arg>11</arg>
+  <severity>INFO</severity>
+  <timestamp>Thu Dec 26 01:36:11 2024</timestamp>
+</msg>
+<msg id="16" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>137</arg>
+</msg>
+<msg id="17" tool="runtool">
+  <type>marker-file</type>
+  <arg>/mnt/netapp2/Home_FT2/home/ulc/cursos/curso391/spmv_benchmarks/advisor_project/e000/dp000/dp000.advixe</arg>
+</msg>
+<msg id="18" tool="runtool">
+  <type>collector-done</type>
+</msg>
+<msg id="19" tool="runtool">
+  <type>log-end</type>
+  <arg>2024/12/26 01:39:19</arg>
+</msg>
+
+</log>
+
